@@ -1,0 +1,7 @@
+* {
+    font-family: 'Satisfy', cursive;
+}
+
+.active {
+    background-color: aqua;
+}
